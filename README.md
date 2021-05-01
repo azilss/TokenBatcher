@@ -45,3 +45,4 @@
 - Update note 1139
 - Update note 8186
 - Update note 8038
+- Update note 8673
