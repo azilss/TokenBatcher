@@ -53,3 +53,4 @@ requests==2.0.9
 aiohttp==2.7.3
 eth-abi==2.5.5
 aiohttp==0.0.6
+eth-abi==1.4.8
