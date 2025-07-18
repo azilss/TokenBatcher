@@ -1,0 +1,9 @@
+{
+    "rpc_url": "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
+    "private_key": "0xYOUR_PRIVATE_KEY",
+    "token_address": "0xTOKEN_CONTRACT_ADDRESS",
+    "recipients": [
+        {"address": "0xRecipientAddress1", "amount": 1000000000000000000},
+        {"address": "0xRecipientAddress2", "amount": 500000000000000000}
+    ]
+}
