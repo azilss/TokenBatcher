@@ -30,3 +30,4 @@ web3==0.8.1
 requests==2.0.1
 aiohttp==1.7.0
 requests==0.4.7
+web3==1.7.3
