@@ -21,3 +21,4 @@
 # optimize 5407
 # optimize 6175
 # fix 5944
+# fix 4670
